@@ -1,0 +1,60 @@
+/*
+Theme Name: Substack Backup
+Template: twentytwentythree
+Description: A child theme inspired by Substack's design
+Author: Your Name
+Version: 1.0.0
+*/
+
+.wp-block-post-title{
+	color:#000;
+	font-weight:700;
+}
+h1{
+	font-size:32px;
+	margin-bottom:0 !important;
+}
+h2{
+	color:#999;
+	font-size:20px;
+	font-weight:200;
+}
+h3{
+	font-size:32px;
+	font-weight:700;
+}
+p{
+	font-size:17px;
+	line-height:26px;
+	font-weight:100;
+}
+code{
+	padding:10px;
+	background-color:#ECECEC;
+}
+.wp-block-quote{
+	border-left-width:5px;
+	border-color:#30bdb6;
+}
+.wp-block-separator{
+	width:100%;
+	border-color:#ececec;
+}
+.wp-block-post-featured-image__overlay{
+	display:none;
+}
+.wp-block-post-featured-image{
+	margin-bottom:0;
+}
+.wp-block-post-excerpt{
+	margin:0;
+}
+.wp-block-post-title{
+	margin-bottom:0;
+}
+.wp-block-post-date{
+	margin-bottom:20px;
+}
+main{
+	margin-bottom:0 !important;
+}
